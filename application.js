@@ -47,6 +47,37 @@ var Sections = [
                 url:  "https://www.youtube.com/user/ExtraCreditz"
             }
         ]
+    },
+    {
+        displayName: "Every Frame a Painting",
+        tags: ["movies"],
+        takeAway: "Analyses of themes and techniques in the production of Movies.",
+        description: [
+            "This series decomposes the daunting topic of film into a set of videos which each provide a clear explanation of a single facet of film design and production."
+        ],
+        links: [
+            {
+                type: "video",
+                text: "All episodes",
+                url:  "https://www.youtube.com/playlist?list=PL2w4TvBbdQ3sMABf317ExCob_v6rW2-4s"
+            }
+        ]
+    },
+    {
+        displayName: "The Animator's Survival Kit",
+        tags: ["animation"],
+        takeAway: "A breakdown of the theory and practice of animation.",
+        description: [
+            "This book starts with a history of animation, which explains what the essence of animation is and what animators seek to achieve.",
+            "TODO: Finish description"
+        ],
+        links: [
+            {
+                type: "purchase",
+                text: "Purchase the book",
+                url:  "http://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X"
+            }
+        ]
     }
 ]
 
