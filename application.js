@@ -78,6 +78,22 @@ var Sections = [
                 url:  "http://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X"
             }
         ]
+    },
+    {
+        displayName: "Code: The Hidden Language of Computer Hardware and Software",
+        tags: ["computers"],
+        takeAway: "A relatively concise explanation of how modern computers work.",
+        description: [
+            "This book starts with pre-computer codes and proceeds to explain how modern computers work by building on this simple foundation is incremental pieces.",
+            "Not only is it very readable and clear, but the method of explanation mimicks the way that these ideas were developed in the first place. Piece by piece. Each piece building incrementally upon the last."
+        ],
+        links: [
+            {
+                type: "purchase",
+                text: "Purchase the book",
+                url:  "http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319"
+            }
+        ]
     }
 ]
 
